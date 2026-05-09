@@ -10,6 +10,8 @@ Forensics
 ## Difficulty
 Easy
 
+## Link
+https://mega.nz/file/OHohCbTa#wbg60PARf4u6E6juuvK9-aDRe_bgEL937VO01EImM7c
 ---
 
 # Challenge Description
