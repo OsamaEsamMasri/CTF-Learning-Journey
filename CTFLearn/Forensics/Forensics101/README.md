@@ -17,6 +17,7 @@ https://mega.nz/file/OHohCbTa#wbg60PARf4u6E6juuvK9-aDRe_bgEL937VO01EImM7c
 # Challenge Description
 
 The challenge provided a downloadable JPG image and hinted that the flag was hidden somewhere inside the file.
+<img width="241" height="222" alt="image" src="https://github.com/user-attachments/assets/c20d6033-d6fe-4493-8a4d-e37af8d4ae14" />
 
 ---
 
