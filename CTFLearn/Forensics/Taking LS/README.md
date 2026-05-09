@@ -1,5 +1,8 @@
 # Taking LS
 
+
+<img width="735" height="366" alt="image" src="https://github.com/user-attachments/assets/44e7f093-7b1c-4934-bfce-8ce90678a3e1" />
+
 ## Platform
 CTFLearn
 
