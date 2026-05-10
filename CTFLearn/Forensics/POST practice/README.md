@@ -42,8 +42,6 @@ This site takes POST data that you have not submitted!
 
 This indicated that the application expected data through an HTTP POST request.
 
-<img width="1272" height="720" alt="image" src="YOUR_IMAGE_LINK_HERE" />
-
 ---
 
 # Step 2 - Inspecting the Page Source
@@ -62,7 +60,8 @@ Inside the HTML source code, I discovered a hidden comment containing login cred
 
 This revealed both the username and password needed for authentication.
 
-<img width="1272" height="720" alt="image" src="YOUR_IMAGE_LINK_HERE" />
+<img width="669" height="274" alt="image" src="https://github.com/user-attachments/assets/0be8537d-ddec-47b1-b4cc-c3d102c0db83" />
+
 
 ---
 
@@ -89,7 +88,8 @@ After sending the correct POST request, the server responded with the hidden fla
 flag{p0st_d4ta_4ll_d4y}
 ```
 
-<img width="1272" height="720" alt="image" src="YOUR_IMAGE_LINK_HERE" />
+<img width="818" height="377" alt="image" src="https://github.com/user-attachments/assets/f73c7480-ac41-4107-894b-6d9804bd58e7" />
+
 
 ---
 
