@@ -1,5 +1,5 @@
 # POST Practice
-
+<img width="670" height="333" alt="لقطة شاشة 2026-05-09 182214" src="https://github.com/user-attachments/assets/29d3d272-522d-41fb-9f85-152dae07dcb0" />
 ## Platform
 CTFLearn
 
@@ -8,6 +8,7 @@ Web
 
 ## Difficulty
 Medium
+<img width="1915" height="918" alt="image" src="https://github.com/user-attachments/assets/5ea7bb6c-529d-4f17-aec8-6915f02b8eaf" />
 
 ---
 
