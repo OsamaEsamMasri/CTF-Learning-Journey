@@ -123,7 +123,9 @@ steghide: could not open the file "973".
 
 This indicated that the hidden data was not directly extractable using `steghide`, so further forensic investigation was required.
 
-<img width="560" height="104" alt="image" src="https://github.com/user-attachments/assets/2dc7a69b-fd8e-4a0e-bca5-0e7846e1d967" />
+
+<img width="368" height="78" alt="image" src="https://github.com/user-attachments/assets/94dc13be-2467-400a-9f6e-1c5327d3cedd" />
+
 
 ---
 
